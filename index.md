@@ -11,6 +11,10 @@ This page tries to provide an overview of the projects.
 
 ## Tools and utilities
 
+* [babyqtfun](https://github.com/ha11owed/babyqtfun)
+  * A keyboard smasher for babies.
+  * The application is developed in C++/Qml.
+
 * [germanarticles](https://github.com/ha11owed/germanarticles) (under development...)
   * An android app for practicing the correct use of the german articles.
   * The application is developed in C++/Java (NDK/JDK).
